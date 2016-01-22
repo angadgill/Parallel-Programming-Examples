@@ -13,4 +13,4 @@ I have only tested this on OSx so far. In order to run the examples here, you wi
 
 1. Download the repository: `$ git clone https://github.com/angadgill/Parallel-Programming-Examples`
 2. Execute make: `$ make`
-3. Execute any file you wish, e.g. `$ ./pthread_mutex_example`
+3. Execute any file you wish, e.g. `$ ./pthread_mutex_example.o`
